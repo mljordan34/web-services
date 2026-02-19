@@ -1,0 +1,13 @@
+{
+  "name": "my-first-api",
+  "packageManager": "yarn@4.9.1",
+  "dependencies": {
+    "@types/express": "^5.0.6",
+    "express": "^5.2.1",
+    "tsx": "^4.21.0",
+    "typescript": "^5.9.3"
+  },
+  "scripts": {
+    "start": "tsx server.ts"
+  }
+}
